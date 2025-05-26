@@ -17,7 +17,7 @@ Built with Python using the **TeleBot** library.
 
 ---
 
-## Clone the Repository
+## How to run
 
 ```bash
 git clone https://github.com/im-Hemo/Pinterest-telegram-bot.git
@@ -31,3 +31,9 @@ pip install -r requirements.txt
 ```
 python3 Pinterest.py
 
+
+
+## Join us
+• [more bots ](https://t.me/lmmm5)
+• made with ♡ by [Hemo ](https://t.me/x_g_v)
+ 
