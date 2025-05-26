@@ -35,5 +35,6 @@ python3 Pinterest.py
 
 ## Join us
 • [more bots ](https://t.me/lmmm5)
+
 • made with ♡ by [Hemo ](https://t.me/x_g_v)
  
