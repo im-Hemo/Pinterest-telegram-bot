@@ -29,12 +29,13 @@ put your bot token in Pinterest.py line 16 ✓
 ```bash
 pip install -r requirements.txt
 ```
+```bash
 python3 Pinterest.py
 
 
 
 ## Join us
-• [more bots ](https://t.me/lmmm5)
+• for [more bots ](https://t.me/lmmm5)
 
 • made with ♡ by [Hemo ](https://t.me/x_g_v)
  
