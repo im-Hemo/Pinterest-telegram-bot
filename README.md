@@ -20,5 +20,14 @@ Built with Python using the **TeleBot** library.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/Pinterest-Telegram-Bot.git
+git clone https://github.com/im-Hemo/Pinterest-telegram-bot.git
+```
+```bash
 cd Pinterest-Telegram-Bot
+```
+put your bot token in Pinterest.py line 16 ✓
+```bash
+pip install -r requirements.txt
+```
+python3 Pinterest.py
+
