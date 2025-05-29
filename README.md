@@ -33,7 +33,10 @@ pip install -r requirements.txt
 python3 Pinterest.py
 ```
 
-
+> [!IMPORTANT]
+> هذا نص مهم جدًا ويظهر بلون مميز على GitHub.
+>
+> يمكن كتابة أكثر من سطر داخل هذا التنبيه.
 
 ## Join us
 • for [more bots ](https://t.me/lmmm5)
