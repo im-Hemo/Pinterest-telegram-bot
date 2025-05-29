@@ -8,7 +8,7 @@ Built with Python using the **TeleBot** library.
 ---
 
 > [!TIP]
-> ✨ Features
+> ✨ <p style="font-size: 1.5em; font-weight: bold;">✨ Features</p>
 > - Download Pinterest **images**, **videos**, and **carousel posts**
 > - Smart handling of pin URLs (even short ones)
 > - Clean and organized download system
