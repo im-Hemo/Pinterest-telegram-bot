@@ -7,13 +7,14 @@ Built with Python using the **TeleBot** library.
 
 ---
 
-## Features
-
-- Download Pinterest **images**, **videos**, and **carousel posts**
-- Smart handling of pin URLs (even short ones)
-- Clean and organized download system
-- Beautiful inline keyboard with developer links
-- Fast and multi-threaded downloads
+> [!NOTE]
+> ## ✨ Features
+>
+> - 📸 Download Pinterest **images**, **videos**, and **carousel posts**
+> - 🔗 Smart handling of pin URLs (even short ones)
+> - 🗂️ Clean and organized download system
+> - 🎛️ Beautiful inline keyboard with developer links
+> - ⚡ Fast and multi-threaded downloads
 
 ---
 
@@ -33,10 +34,6 @@ pip install -r requirements.txt
 python3 Pinterest.py
 ```
 
-> [!IMPORTANT]
-> هذا نص مهم جدًا ويظهر بلون مميز على GitHub.
->
-> يمكن كتابة أكثر من سطر داخل هذا التنبيه.
 
 ## Join us
 • for [more bots ](https://t.me/lmmm5)
