@@ -7,15 +7,13 @@ Built with Python using the **TeleBot** library.
 
 ---
 
-> [!NOTE]
-> ## ✨ Features
->
-> - 📸 Download Pinterest **images**, **videos**, and **carousel posts**
-> - 🔗 Smart handling of pin URLs (even short ones)
-> - 🗂️ Clean and organized download system
-> - 🎛️ Beautiful inline keyboard with developer links
-> - ⚡ Fast and multi-threaded downloads
-
+> [!FEATURE]
+> ### ✨ Features
+> - Download Pinterest **images**, **videos**, and **carousel posts**
+> - Smart handling of pin URLs (even short ones)
+> - Clean and organized download system
+> - Beautiful inline keyboard with developer links
+> - Fast and multi-threaded downloads
 ---
 
 ## How to run
